@@ -1,0 +1,12 @@
+a="This is a string"                        #String
+b=int(-8)                                   #Integer
+c=float(12.5)                               #Float
+d= (1,2,3,4)                                #Tuple
+e=list[1,2,3,4]                             #list
+f=range(1,11)                               #range
+g=True                                      #Boolean
+h=None                                      #None
+i={"name":"Dhawal", "age":16}               #dictionary
+j={"Kendriya","Vidyalaya"}                  #set
+k=10+4j                                     #complex
+print(type(a),type(b),type(c),type(d),type(e),type(f),type(g),type(h),type(i),type(j),type(k),sep="\n")       #Printing data type
